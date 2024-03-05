@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikola and I live in Cracow.
-- 👀 I’m interested in programming, chess, and active spending of time.
+- 👀 I’m interested in programming, chess, travel and active spending of time.
 - 🌱 I’m currently learning various technologies, especially the Java language.
 - 📫 How to reach me nikolawierzbowska21@gmail.com
 - 😄 Pronouns: she/her
