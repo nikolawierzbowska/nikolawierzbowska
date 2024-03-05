@@ -26,5 +26,7 @@
 <h1></h1>
 
 :fire: My Stats :
+<br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nikolawierzbowska&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=nikolawierzbowska&theme=transparent&mode=weekly)](https://git.io/streak-stats)
+
